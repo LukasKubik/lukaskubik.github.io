@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website."
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,4 +19,4 @@ Streetphotography
 I started to be interested in photography back in 2014 when I was visiting Korea for the first time as an exchange student. Soon after I realized I was more interested in capturing the mood of the society I was in than in selfies. However, it was in 2016 in Hong Kong when really started into street photography. It was my Chinese roomate with Leica at horrible backpacker's hostel at Wan Chain who showed me how to compose and how to approach strangers. 
 I should say that my work is definitely influnced by japanese school of street photography and artists such as Daido Moriyama, Nobuyoshi Araki, Tatsuo Suzuki and others. I should also name Josef Koudelka. Moreover, I always find inspiration in cinematography of  Wong Kar-wai or Diao Yinan whose visual style mesmerizes me. 
 
-In my photos I am trying to visualy capture and describe moods and feelings of the city. I shoot mostly in black and white photos (but occasionaly in color). If you are interested in my photography, follow me on [Instagram](https://www.instagram.com/sifonkubik/) of follow the hashtag [#praguecameraclub](https://www.instagram.com/explore/tags/praguecameraclub/).
+I shoot mostly in black and white photos (but occasionaly in color). If you are interested in my photography, follow me on [Instagram](https://www.instagram.com/sifonkubik/) or follow the hashtag [#praguecameraclub](https://www.instagram.com/explore/tags/praguecameraclub/).
