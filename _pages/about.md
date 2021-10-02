@@ -16,7 +16,7 @@ Currently, I am studying a Ph. D. program History and Cultures of Asian and Afri
 
 <b>Streetphotography</b>
 
-<img src="https://github.com/LukasKubik/lukaskubik.github.io/blob/e03f073d34cd22a789be2e6dd9d0981e6d3f0d94/images/profile.png">
+<img src="https://uploads.dailydot.com/2018/04/pattern.jpg?auto=compress%2Cformat&fit=scale&h=300&ixlib=php-3.3.0&w=600&wpsize=medium">
 
 <img src="profile.png">
 
