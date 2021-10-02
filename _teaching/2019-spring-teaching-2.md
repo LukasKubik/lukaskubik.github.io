@@ -3,7 +3,7 @@ title: "Současná Korea (Contemporary Korea)"
 collection: teaching
 type: "Semestral course"
 permalink: /teaching/2019-spring-teaching-1
-venue: "Charles University, Institute of Asian Studiews"
+venue: "Charles University, Department of Far East"
 date: 2019-01-01
 location: "Prague, Czech Republic"
 ---
