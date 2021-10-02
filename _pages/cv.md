@@ -17,11 +17,10 @@ Education
 
 Mobility & Scholarships
 ======
-* Academy of Korean Studies – Graduate Fellow (09/2021–02/2022)
-* Seoul National University – Kyujanggak Institute for Korean Studies Archive Travel Grant (02–04/2021)
-* University of Vienna (CEEPUS program) -  South and North Korea, Korean and Koreans: Research, Research Based Teaching & Networking for
- Synergies in Central and Eastern Europe. (03–04/2020)
-* Hankuk University of Korean Studies (South Korea) – Center for Korean Language and Culture (02–09/2014)
+* Academy of Korean Studies – Graduate Fellow (2021–2022)
+* Seoul National University – Kyujanggak Institute for Korean Studies: Archive Travel Grant (02–04/2021)
+* University of Vienna -  CEEPUS: South and North Korea, Korean and Koreans: Research, Research Based Teaching & Networking for Synergies in Central and Eastern Europe. (03–04/2020)
+* Hankuk University of Korean Studies – Center for Korean Language and Culture (02–09/2014)
 
 Internships & Work experience
 ======
