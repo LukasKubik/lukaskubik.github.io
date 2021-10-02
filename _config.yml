@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Koreanist | Historian"
   location         : "Seoul|Prague"
-  employer         : ""
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2JpoLtsAAAAJ&hl=cs"
   email            : "lukas.kubik@ff.cuni.cz"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  academia         : "https://cuni.academia.edu/LukasKubik?from_navbar=true"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   github           : "LukasKubik"
   google_plus      :
   keybase          :
-  instagram        : "@sifonkubik"
+  instagram        : "https://www.instagram.com/sifonkubik/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
