@@ -15,7 +15,7 @@ My name is <b>Lukáš Kubík</b>, I am a koreanist, historian and researcher of 
 Currently, I am studying a Ph. D. program History and Cultures of Asian and African Countries at the Institute of Asian Studies, Faculty of Arts, Charles University in Prague. I am interested in the diplomatic relations of medieval East Asia, especially Korea and China. Moreover, I am interested in medieval maritime piracy.
 
 <b>Streetphotography</b>
-<img src="profile.png">
+<img src="https://github.com/LukasKubik/lukaskubik.github.io/blob/e03f073d34cd22a789be2e6dd9d0981e6d3f0d94/images/profile.png">
 
 I started to be interested in photography back in 2014 when I visited Korea for the first time as an exchange student. Soon after, I realized I was more interested in capturing the mood of society than I was in selfies. However, it was in 2016 in Hong Kong when I really started into street photography. It was my Chinese roommate with Leica at a horrible backpacker's hostel at Wan Chain who showed me how to compose, and how to approach strangers. 
 I should say that my work is definitely influenced by Japanese school of street photography and artists such as Daido Moriyama, Nobuyoshi Araki, Tatsuo Suzuki, and others. I should also name Josef Koudelka. Moreover, I always find inspiration in the cinematography of Wong Kar-wai or Diao Yinan whose visual style mesmerizes me.  
