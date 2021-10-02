@@ -8,9 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Lukáš. 
-
-We are the Borg. You will be assimilated. Resistance is futile.
-======
-I am a Ph. D. student of the programme History and Cultures of Asian and African countries. My research interests are in history of East Asia, history of Korea and bblabl
-
+My name is Lukáš Kubík, I am a researcher of Asia, historian and koreanist. Currently I am studying a Ph. D. programme History and Cultures of Asian and African Countries at the Institute of Asian Studies, Faculty of Arts, Charles University in Prague.
