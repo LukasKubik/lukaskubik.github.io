@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Vita"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -31,4 +31,3 @@ Internships & Work experience
   * Passenger traffic
 * Czech Center in Seoul – internship
 * Czech Airlines Handling (2013 - 2014)
-  * Translator
