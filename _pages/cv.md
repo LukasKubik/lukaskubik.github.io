@@ -17,19 +17,19 @@ Education
 
 Mobility & Scholarships
 ======
-* ACADEMY OF KOREAN STUDIES (South Korea) – Graduate Fellow (09/2021–02/2022)
-* SEOUL NATIONAL UNIVERSITY (South Korea) – Kyujanggak Institute for Korean Studies Archive Travel Grant (02–04/2021)
-* UNIVERSITY OF VIENNA (Austria) -  South and North Korea, Korean and Koreans: Research, Research Based Teaching & Networking for
- Synergies in Central and Eastern Europe. (CEEPUS program) (03–04/2020)
-* HANKUK UNIVERSITY OF FOREIGN STUDIES (South Korea) – Center for Korean Language and Culture (02–09/2014)
+* Academy of Korean Studies – Graduate Fellow (09/2021–02/2022)
+* Seoul National University – Kyujanggak Institute for Korean Studies Archive Travel Grant (02–04/2021)
+* University of Vienna (CEEPUS program) -  South and North Korea, Korean and Koreans: Research, Research Based Teaching & Networking for
+ Synergies in Central and Eastern Europe. (03–04/2020)
+* Hankuk University of Korean Studies (South Korea) – Center for Korean Language and Culture (02–09/2014)
 
 Internships & Work experience
 ======
-* 4-9/2021 CZECH ACADEMY OF SCIENCES – Oriental Institute Cataloguing Korean & North Korean collections
-* 2014 - 2018: Korean Airlines
+* Czech Academy of Sciences – Oriental Institute Cataloguing Korean & North Korean collections (4-9/2021) 
+* Korean Airlines (2014 - 2018)
   * Flight Master
   * Cargo traffic
   * Passenger traffic
 * Czech Center in Seoul – internship
-* 2013 - 2014: Czech Airlines Handling
+* Czech Airlines Handling (2013 - 2014)
   * Translator
