@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-My name is Lukáš Kubík, I am a researcher of Asia, historian and koreanist. Currently I am studying a Ph. D. programme History and Cultures of Asian and African Countries at the Institute of Asian Studies, Faculty of Arts, Charles University in Prague.
+My name is Lukáš Kubík, I am a researcher of Asia, historian and koreanist. I am studying a Ph. D. programme History and Cultures of Asian and African Countries at the Institute of Asian Studies, Faculty of Arts, Charles University in Prague. Currently I am a fellow at the Academy of Korean Studies. 
