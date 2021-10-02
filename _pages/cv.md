@@ -15,45 +15,21 @@ Education
 * M.S. in Korean studies, Charles University in Prague, 2018
 * Ph.D in History and Cultures of Asian and African countries, Charles University, 2022 (expected)
 
-Work experience
+Mobility & Scholarships
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* ACADEMY OF KOREAN STUDIES (South Korea) – Graduate Fellow (09/2021–02/2022)
+* SEOUL NATIONAL UNIVERSITY (South Korea) – Kyujanggak Institute for Korean Studies Archive Travel Grant (02–04/2021)
+* UNIVERSITY OF VIENNA (Austria) -  South and North Korea, Korean and Koreans: Research, Research Based Teaching & Networking for
+ Synergies in Central and Eastern Europe. (CEEPUS program) (03–04/2020)
+* HANKUK UNIVERSITY OF FOREIGN STUDIES (South Korea) – Center for Korean Language and Culture (02–09/2014)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Internships & Work experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 4-9/2021 CZECH ACADEMY OF SCIENCES – Oriental Institute Cataloguing Korean & North Korean collections
+* 2014 - 2018: Korean Airlines
+  * Flight Master
+  * Cargo traffic
+  * Passenger traffic
+* Czech Center in Seoul – internship
+* 2013 - 2014: Czech Airlines Handling
+  * Translator
