@@ -1,5 +1,5 @@
 ---
-title: "Současná Korea (Contemporary Korea)"
+title: "Contemporary Korea"
 collection: teaching
 type: "Semestral course"
 permalink: /teaching/2019-spring-teaching-1
