@@ -25,6 +25,6 @@ I started to be interested in photography back in 2014 when I visited Korea for 
 
 I should say that my work is definitely influenced by Japanese school of street photography and artists such as Daido Moriyama, Nobuyoshi Araki, Tatsuo Suzuki, and others. I should also name Josef Koudelka. Moreover, I always find inspiration in the cinematography of Wong Kar-wai or Diao Yinan whose visual style mesmerizes me.  
 
-<img src="images/DSCF0262.jpeg">
+<img src="images/0A57D071-9FE2-4800-993B-407E0E1BD541-6336-00000197E2BEF0F5.jpeg">
 
 I shoot mostly in black and white (occasionaly in color). If you are interested in my photography, follow me on [Instagram](https://www.instagram.com/sifonkubik/) or follow the hashtag [#praguecameraclub](https://www.instagram.com/explore/tags/praguecameraclub/).
