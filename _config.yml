@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @LukasKubik
 facebook:
   username               :
   app_id                 :
@@ -83,11 +83,11 @@ author:
   name             : "Lukáš Kubík"
   avatar           : "profile.png"
   bio              : "To boldy go where noone has gone before"
-  location         : "Deep Space 9"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  location         : "Seoul/Prague"
+  employer         : "https://uas.ff.cuni.cz/en/"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=2JpoLtsAAAAJ&hl=cs"
+  email            : "lukas.kubik@ff.cuni.cz"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "LukasKubik"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "@sifonkubik"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9905-8661"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@LukasKubik"
   vine             :
   weibo            :
   xing             :
