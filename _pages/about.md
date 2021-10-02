@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Welcome to my website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Lukáš Kubík, I am a researcher of Asia, historian and koreanist. I am also a board member of the [Czech Association of Orientalists](http://orientalistickyexpres.cz) (Orientalistický expres) and street photographer. 
+I am a researcher of Asia, historian and koreanist. I am also a board member of the [Czech Association of Orientalists](http://orientalistickyexpres.cz) (Orientalistický expres) and street photographer from Prague, Czech Republic. 
 
 Doctoral student
 
