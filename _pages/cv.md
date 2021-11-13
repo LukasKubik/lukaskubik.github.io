@@ -26,7 +26,7 @@ Internships & Work experience
 ======
 * Czech Academy of Sciences – Oriental Institute. Cataloguing Korean & North Korean collections (2021)
 
-<img src="images/DSCF0648.jpeg"> 
+<img src="/Users/honza/Library/Mobile Documents/com~apple~CloudDocs/PhD research/GitHub page/lukaskubik.github.io/images/DSCF0648.jpeg"> 
 
 * Korean Airlines (2014 - 2018)
 * Czech Airlines Handling (2013 - 2014)
