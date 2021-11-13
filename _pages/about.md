@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is <b>Lukáš Kubík</b>. I am a Ph. D. student of History and Cultures of Asian and African Countries at the Institute of Asian Studies, Faculty of Arts, <b>Charles University in Prague<b>. I am interested in the political history of premodern East Asia, diplomatic relations, and maritime piracy. My dissertational project is dealing with diplomatic relations of Korea and China in the context of the maritime piracy of the 14th and 15th centuries.
+My name is <b>Lukáš Kubík</b>. I am a Ph. D. student of History and Cultures of Asian and African Countries at the Institute of Asian Studies, Faculty of Arts, <b>Charles University in Prague</b>. I am interested in the political history of premodern East Asia, diplomatic relations, and maritime piracy. My dissertational project is dealing with diplomatic relations of Korea and China in the context of the maritime piracy of the 14th and 15th centuries.
 
 <b>Streetphotography</b>
 
