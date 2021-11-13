@@ -24,11 +24,10 @@ Mobility & Scholarships
 
 Internships & Work experience
 ======
-* Czech Academy of Sciences – Oriental Institute Cataloguing Korean & North Korean collections (4-9/2021)
+* Czech Academy of Sciences – Oriental Institute. Cataloguing Korean & North Korean collections (2021)
+
 <img src="images/DSCF0648.jpeg"> 
+
 * Korean Airlines (2014 - 2018)
-  * Flight Master
-  * Cargo traffic
-  * Passenger traffic
-* Czech Center in Seoul – internship
 * Czech Airlines Handling (2013 - 2014)
+* Czech Center in Seoul – internship
