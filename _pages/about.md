@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is <b>Lukáš Kubík</b>; I hold a master’s degree in Korean studies from Charles University in Prague, Czech Republic. I am now in the fourth year of the Ph.D. programme History and Cultures of Asian and African countries at the Institute of Asian Studies, Faculty of Arts, Charles University in Prague. My academic interests are mainly history of premodern East Asia and history of Korea, international relations and maritime piracy. My dissertational project deals with Korean history and medieval maritime piracy at the end of the 14th century from an international relations perspective. The project aims to explain the role of Japanese pirates in Koryŏ’s internal politics during the reign of King Kongmin and interpret their activities and impacts into a broader context of historical events. I hope this dissertation will bring new light to this complex historical period and help to understand better the political dynamics between China, Japan, and Korea.
+Hello, and welcome to my website! My name is <b>Lukáš Kubík</b>. I am a historian with a Master's degree in Korean Studies from Charles University in Prague, Czech Republic. Currently, I am pursuing my PhD at the same institution.
 
-This website is my online academic curriculum vitae and blogging platform for my field research and travelogues.
+My academic interests encompass a wide range of topics, including premodern East Asian history, the history of Korea, and the Cold War. My doctoral research project dives into the fascinating world of medieval maritime piracy and international relations during the late Koryo period.
+As an active member of the CSSR-Korea project, I explore the complex political history and diplomatic exchanges between the DPRK, CSSR, and third-world countries, seeking to illuminate new perspectives on these vital historical relationships.
+
+This website is my online academic curriculum vitae and a platform for sharing my field research experiences and travelogues.
 
 
 
